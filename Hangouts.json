@@ -1,0 +1,566 @@
+{
+  "conversations": [
+    {
+      "conversation": {
+        "conversation_id": {
+          "id": "UgxkMhMMM-CzjVXmI254AaABAagBn6H8DA"
+        },
+        "conversation": {
+          "id": {
+            "id": "UgxkMhMMM-CzjVXmI254AaABAagBn6H8DA"
+          },
+          "type": "STICKY_ONE_TO_ONE",
+          "self_conversation_state": {
+            "self_read_state": {
+              "participant_id": {
+                "gaia_id": "100770771445578993082",
+                "chat_id": "100770771445578993082"
+              },
+              "latest_read_timestamp": "0"
+            },
+            "status": "INVITED",
+            "notification_level": "QUIET",
+            "view": [
+              "ARCHIVED_VIEW"
+            ],
+            "inviter_id": {
+              "gaia_id": "102472110980695583021",
+              "chat_id": "102472110980695583021"
+            },
+            "invite_timestamp": "1459652702556000",
+            "sort_timestamp": "1459652716023832",
+            "invite_affinity": "LOW",
+            "delivery_medium_option": [
+              {
+                "delivery_medium": {
+                  "medium_type": "BABEL_MEDIUM"
+                },
+                "current_default": true
+              }
+            ],
+            "invitation_display_type": "CHAT"
+          },
+          "read_state": [
+            {
+              "participant_id": {
+                "gaia_id": "100770771445578993082",
+                "chat_id": "100770771445578993082"
+              },
+              "latest_read_timestamp": "0"
+            },
+            {
+              "participant_id": {
+                "gaia_id": "102472110980695583021",
+                "chat_id": "102472110980695583021"
+              },
+              "latest_read_timestamp": "0"
+            }
+          ],
+          "has_active_hangout": false,
+          "otr_status": "ON_THE_RECORD",
+          "otr_toggle": "ENABLED",
+          "current_participant": [
+            {
+              "gaia_id": "102472110980695583021",
+              "chat_id": "102472110980695583021"
+            },
+            {
+              "gaia_id": "100770771445578993082",
+              "chat_id": "100770771445578993082"
+            }
+          ],
+          "participant_data": [
+            {
+              "id": {
+                "gaia_id": "100770771445578993082",
+                "chat_id": "100770771445578993082"
+              },
+              "fallback_name": "Manoja Jayasinghe",
+              "invitation_status": "PENDING_INVITATION",
+              "participant_type": "GAIA",
+              "new_invitation_status": "PENDING_INVITATION",
+              "in_different_customer_as_requester": false,
+              "domain_id": "105250506097979753968"
+            },
+            {
+              "id": {
+                "gaia_id": "102472110980695583021",
+                "chat_id": "102472110980695583021"
+              },
+              "fallback_name": "Nipun randika Wickrama gunaratne",
+              "invitation_status": "ACCEPTED_INVITATION",
+              "participant_type": "GAIA",
+              "new_invitation_status": "ACCEPTED_INVITATION",
+              "in_different_customer_as_requester": false,
+              "domain_id": "105250506097979753968"
+            }
+          ],
+          "fork_on_external_invite": false,
+          "network_type": [
+            "BABEL"
+          ],
+          "force_history_state": "NO_FORCE",
+          "group_link_sharing_status": "LINK_SHARING_OFF"
+        }
+      },
+      "events": [
+        {
+          "conversation_id": {
+            "id": "UgxkMhMMM-CzjVXmI254AaABAagBn6H8DA"
+          },
+          "sender_id": {
+            "gaia_id": "102472110980695583021",
+            "chat_id": "102472110980695583021"
+          },
+          "timestamp": "1459652716023832",
+          "self_event_state": {
+            "user_id": {
+              "gaia_id": "100770771445578993082",
+              "chat_id": "100770771445578993082"
+            },
+            "notification_level": "QUIET"
+          },
+          "chat_message": {
+            "message_content": {
+              "segment": [
+                {
+                  "type": "TEXT",
+                  "text": "Chubby"
+                }
+              ]
+            }
+          },
+          "event_id": "8CBjgod82dN8CBjiQvV2Po",
+          "advances_sort_timestamp": true,
+          "event_otr": "ON_THE_RECORD",
+          "delivery_medium": {
+            "medium_type": "BABEL_MEDIUM"
+          },
+          "event_type": "REGULAR_CHAT_MESSAGE",
+          "event_version": "1459652716023832"
+        },
+        {
+          "conversation_id": {
+            "id": "UgxkMhMMM-CzjVXmI254AaABAagBn6H8DA"
+          },
+          "sender_id": {
+            "gaia_id": "102472110980695583021",
+            "chat_id": "102472110980695583021"
+          },
+          "timestamp": "1459652746369048",
+          "self_event_state": {
+            "user_id": {
+              "gaia_id": "100770771445578993082",
+              "chat_id": "100770771445578993082"
+            },
+            "notification_level": "QUIET"
+          },
+          "chat_message": {
+            "message_content": {
+              "segment": [
+                {
+                  "type": "TEXT",
+                  "text": "Sorry i'm truly loving you."
+                }
+              ]
+            }
+          },
+          "event_id": "8CBjgod82dN8CBjm8-AmzQ",
+          "advances_sort_timestamp": true,
+          "event_otr": "ON_THE_RECORD",
+          "delivery_medium": {
+            "medium_type": "BABEL_MEDIUM"
+          },
+          "event_type": "REGULAR_CHAT_MESSAGE",
+          "event_version": "1459652746369048"
+        },
+        {
+          "conversation_id": {
+            "id": "UgxkMhMMM-CzjVXmI254AaABAagBn6H8DA"
+          },
+          "sender_id": {
+            "gaia_id": "102472110980695583021",
+            "chat_id": "102472110980695583021"
+          },
+          "timestamp": "1459652762875152",
+          "self_event_state": {
+            "user_id": {
+              "gaia_id": "100770771445578993082",
+              "chat_id": "100770771445578993082"
+            },
+            "notification_level": "QUIET"
+          },
+          "chat_message": {
+            "message_content": {
+              "segment": [
+                {
+                  "type": "TEXT",
+                  "text": "I want to meet you and talk to you"
+                }
+              ]
+            }
+          },
+          "event_id": "8CBjgod82dN8CBjo8xGSxB",
+          "advances_sort_timestamp": true,
+          "event_otr": "ON_THE_RECORD",
+          "delivery_medium": {
+            "medium_type": "BABEL_MEDIUM"
+          },
+          "event_type": "REGULAR_CHAT_MESSAGE",
+          "event_version": "1459652762875152"
+        },
+        {
+          "conversation_id": {
+            "id": "UgxkMhMMM-CzjVXmI254AaABAagBn6H8DA"
+          },
+          "sender_id": {
+            "gaia_id": "102472110980695583021",
+            "chat_id": "102472110980695583021"
+          },
+          "timestamp": "1459652791239285",
+          "self_event_state": {
+            "user_id": {
+              "gaia_id": "100770771445578993082",
+              "chat_id": "100770771445578993082"
+            },
+            "notification_level": "QUIET"
+          },
+          "chat_message": {
+            "message_content": {
+              "segment": [
+                {
+                  "type": "TEXT",
+                  "text": "Now I haven't any connection with dasuni"
+                }
+              ]
+            }
+          },
+          "event_id": "8CBjgod82dN8CBjrbYQvUY",
+          "advances_sort_timestamp": true,
+          "event_otr": "ON_THE_RECORD",
+          "delivery_medium": {
+            "medium_type": "BABEL_MEDIUM"
+          },
+          "event_type": "REGULAR_CHAT_MESSAGE",
+          "event_version": "1459652791239285"
+        },
+        {
+          "conversation_id": {
+            "id": "UgxkMhMMM-CzjVXmI254AaABAagBn6H8DA"
+          },
+          "sender_id": {
+            "gaia_id": "102472110980695583021",
+            "chat_id": "102472110980695583021"
+          },
+          "timestamp": "1459652804843806",
+          "self_event_state": {
+            "user_id": {
+              "gaia_id": "100770771445578993082",
+              "chat_id": "100770771445578993082"
+            },
+            "notification_level": "QUIET"
+          },
+          "chat_message": {
+            "message_content": {
+              "segment": [
+                {
+                  "type": "TEXT",
+                  "text": "Can you come on this thursday?"
+                }
+              ]
+            }
+          },
+          "event_id": "8CBjgod82dN8CBjtGpFaOi",
+          "advances_sort_timestamp": true,
+          "event_otr": "ON_THE_RECORD",
+          "delivery_medium": {
+            "medium_type": "BABEL_MEDIUM"
+          },
+          "event_type": "REGULAR_CHAT_MESSAGE",
+          "event_version": "1459652804843806"
+        },
+        {
+          "conversation_id": {
+            "id": "UgxkMhMMM-CzjVXmI254AaABAagBn6H8DA"
+          },
+          "sender_id": {
+            "gaia_id": "102472110980695583021",
+            "chat_id": "102472110980695583021"
+          },
+          "timestamp": "1459652941219219",
+          "self_event_state": {
+            "user_id": {
+              "gaia_id": "100770771445578993082",
+              "chat_id": "100770771445578993082"
+            },
+            "notification_level": "QUIET"
+          },
+          "chat_message": {
+            "message_content": {
+              "segment": [
+                {
+                  "type": "TEXT",
+                  "text": "😢😢"
+                }
+              ]
+            }
+          },
+          "event_id": "8CBjgod82dN8CBk8vFNkcc",
+          "advances_sort_timestamp": true,
+          "event_otr": "ON_THE_RECORD",
+          "delivery_medium": {
+            "medium_type": "BABEL_MEDIUM"
+          },
+          "event_type": "REGULAR_CHAT_MESSAGE",
+          "event_version": "1459652941219219"
+        },
+        {
+          "conversation_id": {
+            "id": "UgxkMhMMM-CzjVXmI254AaABAagBn6H8DA"
+          },
+          "sender_id": {
+            "gaia_id": "102472110980695583021",
+            "chat_id": "102472110980695583021"
+          },
+          "timestamp": "1459652951852842",
+          "self_event_state": {
+            "user_id": {
+              "gaia_id": "100770771445578993082",
+              "chat_id": "100770771445578993082"
+            },
+            "notification_level": "QUIET"
+          },
+          "chat_message": {
+            "message_content": {
+              "segment": [
+                {
+                  "type": "TEXT",
+                  "text": "Sudu api hodin imu."
+                }
+              ]
+            }
+          },
+          "event_id": "8CBjgod82dN8CBkADLBuoJ",
+          "advances_sort_timestamp": true,
+          "event_otr": "ON_THE_RECORD",
+          "delivery_medium": {
+            "medium_type": "BABEL_MEDIUM"
+          },
+          "event_type": "REGULAR_CHAT_MESSAGE",
+          "event_version": "1459652951852842"
+        },
+        {
+          "conversation_id": {
+            "id": "UgxkMhMMM-CzjVXmI254AaABAagBn6H8DA"
+          },
+          "sender_id": {
+            "gaia_id": "102472110980695583021",
+            "chat_id": "102472110980695583021"
+          },
+          "timestamp": "1459652957918886",
+          "self_event_state": {
+            "user_id": {
+              "gaia_id": "100770771445578993082",
+              "chat_id": "100770771445578993082"
+            },
+            "notification_level": "QUIET"
+          },
+          "chat_message": {
+            "message_content": {
+              "segment": [
+                {
+                  "type": "TEXT",
+                  "text": "Please"
+                }
+              ]
+            }
+          },
+          "event_id": "8CBjgod82dN8CBkAxjAv2q",
+          "advances_sort_timestamp": true,
+          "event_otr": "ON_THE_RECORD",
+          "delivery_medium": {
+            "medium_type": "BABEL_MEDIUM"
+          },
+          "event_type": "REGULAR_CHAT_MESSAGE",
+          "event_version": "1459652957918886"
+        },
+        {
+          "conversation_id": {
+            "id": "UgxkMhMMM-CzjVXmI254AaABAagBn6H8DA"
+          },
+          "sender_id": {
+            "gaia_id": "102472110980695583021",
+            "chat_id": "102472110980695583021"
+          },
+          "timestamp": "1459701884884863",
+          "self_event_state": {
+            "user_id": {
+              "gaia_id": "100770771445578993082",
+              "chat_id": "100770771445578993082"
+            },
+            "notification_level": "QUIET"
+          },
+          "chat_message": {
+            "message_content": {
+              "segment": [
+                {
+                  "type": "TEXT",
+                  "text": "😘😜😛😍"
+                }
+              ]
+            }
+          },
+          "event_id": "8CBjgod82dN8CDCVUeLVyv",
+          "advances_sort_timestamp": true,
+          "event_otr": "ON_THE_RECORD",
+          "delivery_medium": {
+            "medium_type": "BABEL_MEDIUM"
+          },
+          "event_type": "REGULAR_CHAT_MESSAGE",
+          "event_version": "1459701884884863"
+        }
+      ]
+    },
+    {
+      "conversation": {
+        "conversation_id": {
+          "id": "UgyDVU3FmdxNQUayvkl4AaABAagBzvXaDw"
+        },
+        "conversation": {
+          "id": {
+            "id": "UgyDVU3FmdxNQUayvkl4AaABAagBzvXaDw"
+          },
+          "type": "STICKY_ONE_TO_ONE",
+          "self_conversation_state": {
+            "self_read_state": {
+              "participant_id": {
+                "gaia_id": "100770771445578993082",
+                "chat_id": "100770771445578993082"
+              },
+              "latest_read_timestamp": "1634231176631419"
+            },
+            "status": "ACTIVE",
+            "notification_level": "RING",
+            "view": [
+              "INBOX_VIEW"
+            ],
+            "inviter_id": {
+              "gaia_id": "108220761824357254770",
+              "chat_id": "108220761824357254770"
+            },
+            "invite_timestamp": "1579759170228000",
+            "sort_timestamp": "1634231176631419",
+            "active_timestamp": "1579759301762000",
+            "delivery_medium_option": [
+              {
+                "delivery_medium": {
+                  "medium_type": "BABEL_MEDIUM"
+                },
+                "current_default": true
+              }
+            ]
+          },
+          "read_state": [
+            {
+              "participant_id": {
+                "gaia_id": "100770771445578993082",
+                "chat_id": "100770771445578993082"
+              },
+              "latest_read_timestamp": "1634231176631419"
+            },
+            {
+              "participant_id": {
+                "gaia_id": "108220761824357254770",
+                "chat_id": "108220761824357254770"
+              },
+              "latest_read_timestamp": "0"
+            }
+          ],
+          "has_active_hangout": false,
+          "otr_status": "ON_THE_RECORD",
+          "otr_toggle": "ENABLED",
+          "current_participant": [
+            {
+              "gaia_id": "100770771445578993082",
+              "chat_id": "100770771445578993082"
+            },
+            {
+              "gaia_id": "108220761824357254770",
+              "chat_id": "108220761824357254770"
+            }
+          ],
+          "participant_data": [
+            {
+              "id": {
+                "gaia_id": "100770771445578993082",
+                "chat_id": "100770771445578993082"
+              },
+              "fallback_name": "Manoja Jayasinghe",
+              "invitation_status": "ACCEPTED_INVITATION",
+              "participant_type": "GAIA",
+              "new_invitation_status": "ACCEPTED_INVITATION",
+              "in_different_customer_as_requester": false,
+              "domain_id": "105250506097979753968"
+            },
+            {
+              "id": {
+                "gaia_id": "108220761824357254770",
+                "chat_id": "108220761824357254770"
+              },
+              "fallback_name": "primal madushan",
+              "invitation_status": "ACCEPTED_INVITATION",
+              "participant_type": "GAIA",
+              "new_invitation_status": "ACCEPTED_INVITATION",
+              "in_different_customer_as_requester": false,
+              "domain_id": "105250506097979753968"
+            }
+          ],
+          "fork_on_external_invite": false,
+          "network_type": [
+            "BABEL"
+          ],
+          "force_history_state": "NO_FORCE",
+          "group_link_sharing_status": "LINK_SHARING_OFF"
+        }
+      },
+      "events": [
+        {
+          "conversation_id": {
+            "id": "UgyDVU3FmdxNQUayvkl4AaABAagBzvXaDw"
+          },
+          "sender_id": {
+            "gaia_id": "100770771445578993082",
+            "chat_id": "100770771445578993082"
+          },
+          "timestamp": "1634231176631419",
+          "self_event_state": {
+            "user_id": {
+              "gaia_id": "100770771445578993082",
+              "chat_id": "100770771445578993082"
+            },
+            "client_generated_id": "8268421152232408778",
+            "notification_level": "RING"
+          },
+          "chat_message": {
+            "message_content": {
+              "segment": [
+                {
+                  "type": "TEXT",
+                  "text": "Hi"
+                }
+              ]
+            }
+          },
+          "event_id": "947BasFXdgF9TU_hfnTTn6",
+          "advances_sort_timestamp": true,
+          "event_otr": "ON_THE_RECORD",
+          "delivery_medium": {
+            "medium_type": "BABEL_MEDIUM"
+          },
+          "event_type": "REGULAR_CHAT_MESSAGE",
+          "event_version": "1634231176631419"
+        }
+      ]
+    }
+  ]
+}
